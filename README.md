@@ -17,7 +17,10 @@
 | GitHub Project | [https://github.com/users/duyl-2064/projects/2](https://github.com/users/duyl-2064/projects/2) |
 | Báo cáo HTML của skill chấm SWP | [swp-report/sun-estimate-yuki-lab5-project2-20261024-1647.html](swp-report/sun-estimate-yuki-lab5-project2-20261024-1647.html) |
 
-Kiểm tra truy cập không đăng nhập: (đang cập nhật)
+**Kiểm tra truy cập không đăng nhập (24/10/2026):** gửi request HTTP không cookie/token tới repo, `README.md`, file báo cáo HTML, Project và issue #98 — cả 6 link trả HTTP 200, Project hiện đúng tiêu đề.
+Cách xem báo cáo HTML: GitHub hiện file `.html` dưới dạng mã nguồn → bấm **Download raw file** rồi mở bằng trình duyệt (file tự chứa, không gọi mạng).
+
+- [ ] Chủ repo đã mở thử repo + Project bằng cửa sổ ẩn danh (điền ngày): ……
 
 ## Cấu trúc repo
 
