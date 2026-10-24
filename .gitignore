@@ -1,0 +1,6 @@
+_ref/
+work/
+reports/
+.DS_Store
+*.pyc
+__pycache__/
