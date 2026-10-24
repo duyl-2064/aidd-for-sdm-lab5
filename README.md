@@ -20,7 +20,7 @@
 **Kiểm tra truy cập không đăng nhập (24/10/2026):** gửi request HTTP không cookie/token tới repo, `README.md`, file báo cáo HTML, Project và issue #98 — cả 6 link trả HTTP 200, Project hiện đúng tiêu đề.
 Cách xem báo cáo HTML: GitHub hiện file `.html` dưới dạng mã nguồn → bấm **Download raw file** rồi mở bằng trình duyệt (file tự chứa, không gọi mạng).
 
-- [ ] Chủ repo đã mở thử repo + Project bằng cửa sổ ẩn danh (điền ngày): ……
+- [x] Chủ repo đã mở thử repo + Project bằng cửa sổ ẩn danh (điền ngày): 24/10/2026
 
 ## Cấu trúc repo
 
